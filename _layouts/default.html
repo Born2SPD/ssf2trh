@@ -16,16 +16,12 @@
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
-        <!--
         {% if site.logo %}
-          <img class="logo" src="{{site.logo | relative_url}}" alt="Logo" />
+          <img class="logo" src="{{site.logo | relative_url}}" alt="Logo0" />
         {% endif %}
-        -->
-        <!--
-        <img class="logo" src="{{site.baseurl}}/_images/logo.png" alt="Logo" />
-        <img class="logo" src="/ssf2trh/_images/logo.png" alt="Logo2" />
-        -->
-        <img class="logo" src="https://raw.githubusercontent.com/Born2SPD/ssf2trh/master/_images/logo.png" alt="Logo2" />
+        <img class="logo" src="{{site.baseurl}}/assets/images/logo.png" alt="Logo1" />
+        <img class="logo" src="/ssf2trh/assets/images/logo.png" alt="Logo2" />
+        <img class="logo" src="https://raw.githubusercontent.com/Born2SPD/ssf2trh/master/assets/images/logo.png" alt="Logo3" />
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
