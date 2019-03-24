@@ -1,4 +1,4 @@
 # https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_config.yml
 
 theme: jekyll-theme-minimal
-logo: "/_images/logo.png"
+logo: "/master/_images/logo.png"
