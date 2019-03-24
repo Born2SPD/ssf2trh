@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# SSF2T: Rebalance Hack v0.2
 
 You can use the [editor on GitHub](https://github.com/Born2SPD/ssf2trh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
