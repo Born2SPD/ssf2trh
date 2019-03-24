@@ -1,7 +1,7 @@
 # https://github.com/mmistakes/jekyll-theme-basically-basic/blob/master/_config.yml
 
 title: SSF2T: Rebalance Hack
-logo: "/master/_images/logo.png"
+logo: "/_images/logo.png"
 lang: en-US
 
 theme: jekyll-theme-minimal
